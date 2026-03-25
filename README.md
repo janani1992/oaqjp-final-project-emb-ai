@@ -1,2 +1,2 @@
 # Repository for final project
-FINAL PRO
+FINAL PROJECT
